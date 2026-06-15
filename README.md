@@ -1,1 +1,1 @@
-# YouTube-Script-Generator
+# Youtube_Script_Generator
